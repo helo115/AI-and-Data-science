@@ -24,3 +24,4 @@ print( list)
 #d.	Extend the resulting list with items “car”, “bike”, “aeroplane”.
 list.extend(["car","bike","aeroplane"])
 print(list)
+

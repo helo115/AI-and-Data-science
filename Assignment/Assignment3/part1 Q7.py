@@ -5,3 +5,4 @@ def square(number):
     return result
 hi=square(number)
 print(hi)
+

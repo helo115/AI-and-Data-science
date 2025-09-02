@@ -27,3 +27,4 @@ def Greetings(Username="Ahsan"):
     print("Welcome to SMIT training center,",Username)
 
 Greetings()
+

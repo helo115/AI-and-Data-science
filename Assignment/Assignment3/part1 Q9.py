@@ -8,3 +8,4 @@ def funct(users_score):
 result=funct(users_score)
 print(result)
 
+

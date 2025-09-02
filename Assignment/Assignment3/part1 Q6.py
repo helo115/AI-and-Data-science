@@ -7,3 +7,4 @@ def func(integer):
         return "it is odd number"
 hi=func(integer)
 print(hi)
+

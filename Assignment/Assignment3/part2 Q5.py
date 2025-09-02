@@ -29,3 +29,4 @@ for a in list:
     
 average=b/7
 print(average)
+
