@@ -6,3 +6,4 @@ def square(number):
 hi=square(number)
 print(hi)
 
+

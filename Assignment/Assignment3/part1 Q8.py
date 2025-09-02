@@ -7,3 +7,4 @@ def area (r):
 hi=area(r)
 print(hi)
 
+
